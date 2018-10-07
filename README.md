@@ -1,0 +1,2 @@
+# xetos
+a Debian derivative
